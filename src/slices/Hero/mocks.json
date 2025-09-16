@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Lying"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sint non sit do duis consequat id incididunt ipsum amet nulla consequat. Quis occaecat aliqua incididunt pariatur mollit eiusmod laborum non cupidatat. Dolor excepteur voluptate nulla qui nostrud."
+						}
+					}
+				]
+			},
+			"buy_button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "struck",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
